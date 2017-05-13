@@ -8,4 +8,5 @@
 # Further Considerations
 1. UI should be more friendly
 2. Encrypt the image data and store them as local files. store the encrypt key into keychain
+  or encrypt the image datas and store them into keychain directly depending on how important those images are.
 3. optimize the image data size
